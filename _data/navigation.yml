@@ -1,9 +1,5 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
-    url: /about/
+    url: /             # About 現在直接連回首頁
+  - title: "Blog"
+    url: /blog/        # Blog 現在連到我們剛建好的 /blog/ 頁面
