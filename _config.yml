@@ -61,11 +61,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Sharing flashes of inspiration and observations from life."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://hunghsuan.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # (原來的 GitHub 和 Instagram 保持不變)
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"  # ★ 這裡改成新的圖標代碼
       url: "https://x.com/lihunghsuan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -76,8 +74,8 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"  # ★ 這裡也改
       url: "https://x.com/lihunghsuan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
