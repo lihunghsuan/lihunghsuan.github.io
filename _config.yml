@@ -17,8 +17,9 @@ title: Hunghsuan
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts, creations, and life journey of Hunghsuan Li.
-twitter_username: username
-github_username: username
+url: "https://hunghsuan.com"
+twitter_username: lihunghsuan
+github_username: lihunghsuan
 minimal_mistakes_skin: default
 search: true
 
@@ -62,28 +63,28 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://hunghsuan.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/lihunghsuan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/lihunghsuan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/lihunghsuan/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/lihunghsuan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/lihunghsuan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/lihunghsuan/"
 
 defaults:
   # _posts
