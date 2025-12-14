@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hi, I'm Hunghsuan 👋"
+title: "Hi👋"
 author_profile: true
 ---
 
